@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chemo850
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Attacker Techniques
 - 💞️ I’m looking to collaborate on Security Tools
 - 📫 How to reach me Linkedin
 - ⚡ Fun fact: Speak Spanish
