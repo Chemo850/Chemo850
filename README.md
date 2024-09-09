@@ -19,6 +19,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
+## Frameworks
+
+<div>
+    <img src="https://img.shields.io/badge/-OWASP-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Penetration Testing Framework-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pending-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
 ## Tools
 
 ### Network
