@@ -1,7 +1,7 @@
 # Hello, I'm Ruben.
 <a href="https://www.linkedin.com/in/ruben-llerena-248924121"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://hackerone.com/darkmagic850"><img src="https://img.shields.io/badge/-HackerOne-FF6200?&style=for-the-badge&logo=hackerone&logoColor=white" /></a>
-<a href="https://www.hackthebox.com/home/users/profile/1993695"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/profile/1993695"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
