@@ -3,9 +3,7 @@
 <a href="https://hackerone.com/darkmagic850"><img src="https://img.shields.io/badge/-HackerOne-FF6200?&style=for-the-badge&logo=hackerone&logoColor=white" /></a>
 <a href="https://app.hackthebox.com/profile/1993695"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a security professional with experience across various security functions including pysical security, security operations, internal audit and product security.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
