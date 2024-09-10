@@ -47,6 +47,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Cloud Misconfiguration
+<div>
+    <img src="https://img.shields.io/badge/-Wiz-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
