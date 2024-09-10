@@ -50,10 +50,11 @@ I have begun a journey towards developing a focus on offensive security. After m
     <img src="https://img.shields.io/badge/-Wiz-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Secret Scanning
+### SAST Tools
 <div>
     <img src="https://img.shields.io/badge/-SpectralOps-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Trufflehog-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Semgrep-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ## Certifications
