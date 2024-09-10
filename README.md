@@ -6,9 +6,8 @@
 I am a security professional with experience across various security functions including pysical security, security operations, internal audit and product security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have begun a journey towards developing a focus on offensive security. After many years of working various security roles, I am now pivoting towards a focus in either a penetration tester or security researcher role.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
