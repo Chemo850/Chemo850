@@ -59,8 +59,7 @@ I have begun a journey towards developing a focus on offensive security. After m
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCIH-007ACC?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/GIAC-GCIH-FF0000?style=for-the-badge&logo=giac&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCIH-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS Architect Associate-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS Developer Associate-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Junior Penetration Tester-000080?&style=for-the-badge&logoColor=white" />
