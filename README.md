@@ -65,7 +65,7 @@ I have begun a journey towards developing a focus on offensive security. After m
 <img src="https://img.shields.io/badge/-Junior Penetration Tester-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certifications
+## Learning Path/Certifications in Progress
 <div>
 <img src="https://img.shields.io/badge/-Practical Network Penetration Tester (PNPT)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
