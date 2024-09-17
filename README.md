@@ -7,7 +7,7 @@ I'm a security professional with experience across various security functions in
 
 ## Objective
 
-I have begun a journey towards developing a focus on offensive security. After many years of working various security roles, I am now pivoting towards a focus towards becoming a penetration tester or security researcher. I'm currently active across various offensive security platforms, as I work towards maturing my offensive skillset and actively particate in CTF events and bug bounty programs.    
+I have begun a journey towards developing a focus on offensive security. After many years of working various security roles, I am now pivoting towards a focus towards becoming a penetration tester or security researcher. I'm currently active across various offensive security platforms, as I work towards maturing my offensive skillset and actively particate in CTF events and bug bounty programs. Additionally, I plan on being an active contribtor to open source security tools such as Trufflehog.     
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
