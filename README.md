@@ -52,7 +52,7 @@ I have begun a journey towards developing a focus on offensive security. After m
 
 ### Cloud Misconfiguration
 <div>
-    <img src="https://img.shields.io/badge/-Wiz-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wiz-5C2D91?&style=for-the-badge&logo=wiz&logoColor=white" />
 </div>
 
 ### SAST
