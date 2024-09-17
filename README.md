@@ -37,7 +37,9 @@ I have begun a journey towards developing a focus on offensive security. After m
 
 ### Penetration Testing Framework
 
-<img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<div>
+<img src="https://img.shields.io/badge/-Metasploit-0277BD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -57,9 +59,9 @@ I have begun a journey towards developing a focus on offensive security. After m
 
 ### SAST
 <div>
-    <img src="https://img.shields.io/badge/-SpectralOps-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Trufflehog-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Semgrep-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SpectralOps-000000?&style=for-the-badge&logo=spectral&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TruffleHog-8E44AD?&style=for-the-badge&logo=trufflehog&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Semgrep-00BFFF?&style=for-the-badge&logo=semgrep&logoColor=white" />
 </div>
 
 ## DAST 
