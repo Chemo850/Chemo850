@@ -28,9 +28,9 @@ I have begun a journey towards developing a focus on offensive security. After m
 ## Languages 
 
 <div>
-    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Powershell-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=database&logoColor=white" />
 </div>
 
 ## Tools
