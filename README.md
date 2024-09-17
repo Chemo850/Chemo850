@@ -25,7 +25,19 @@ I have begun a journey towards developing a focus on offensive security. After m
     <img src="https://img.shields.io/badge/-Pending-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+## Languages 
+
+<div>
+    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Powershell-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
 ## Tools
+
+### Penetration Testing Framework
+
+<img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 ### Network
 <div>
