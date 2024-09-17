@@ -71,11 +71,11 @@ I have begun a journey towards developing a focus on offensive security. After m
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCIH-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS Architect Associate-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS Developer Associate-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Junior Penetration Tester-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-GIAC%20Certified%20Incident%20Handler-0066CC?&style=for-the-badge&logo=giac&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Architect%20Associate-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Developer%20Associate-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-INE%20Junior%20Penetration%20Tester-FF6F00?&style=for-the-badge&logo=ine&logoColor=white" />
 </div>
 
 ## Learning Path/Certifications in Progress
