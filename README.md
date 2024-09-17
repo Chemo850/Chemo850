@@ -20,9 +20,8 @@ I have begun a journey towards developing a focus on offensive security. After m
 ## Frameworks
 
 <div>
-    <img src="https://img.shields.io/badge/-OWASP-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Penetration Testing Framework-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pending-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Penetration%20Testing%20Framework-2F4F4F?&style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
 ## Languages 
