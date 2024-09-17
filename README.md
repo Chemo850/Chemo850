@@ -3,11 +3,11 @@
 <a href="https://hackerone.com/darkmagic850"><img src="https://img.shields.io/badge/-HackerOne-FF6200?&style=for-the-badge&logo=hackerone&logoColor=white" /></a>
 <a href="https://app.hackthebox.com/profile/1993695"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
 
-I am a security professional with experience across various security functions including physical security, security operations, internal audit and product security.
+I'm a security professional with experience across various security functions including physical security, security operations, internal audit and product security.
 
 ## Objective
 
-I have begun a journey towards developing a focus on offensive security. After many years of working various security roles, I am now pivoting towards a focus towards becoming a penetration tester or security researcher.  
+I have begun a journey towards developing a focus on offensive security. After many years of working various security roles, I am now pivoting towards a focus towards becoming a penetration tester or security researcher. I'm currently active across various offensive security platforms, as I work towards maturing my offensive skillset and actively particate in CTF events and bug bounty programs.    
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
