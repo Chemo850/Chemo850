@@ -70,11 +70,11 @@ I have begun a journey towards developing a focus on DevSecOps and Infrastructur
 
 ### DevSecOps 
 <div>
-    <img src="https://img.shields.io/badge/-Terraform-FF8800?&style=for-the-badge&logo=burp-suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-0370B6?&style=for-the-badge&logo=owasp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kubernetes-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jenkins-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Checkov-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Checkov-5C2D91?&style=for-the-badge&logo=checkov&logoColor=white" />
 </div>
 
 ## Certifications
