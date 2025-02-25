@@ -33,12 +33,6 @@ I have begun a journey towards developing a focus on offensive security. After m
 
 ## Tools
 
-### Penetration Testing Framework
-
-<div>
-<img src="https://img.shields.io/badge/-Metasploit-0277BD?&style=for-the-badge&logo=metasploit&logoColor=white" />
-</div>
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
@@ -53,12 +47,17 @@ I have begun a journey towards developing a focus on offensive security. After m
 ### Cloud Misconfiguration
 <div>
     <img src="https://img.shields.io/badge/-Wiz-5C2D91?&style=for-the-badge&logo=wiz&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prisma-0095D5?&style=for-the-badge&logo=prisma&logoColor=white" />
+</div>
+
+### Secrets
+<div>
+    <img src="https://img.shields.io/badge/-SpectralOps-000000?&style=for-the-badge&logo=spectral&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TruffleHog-8E44AD?&style=for-the-badge&logo=trufflehog&logoColor=white" />
 </div>
 
 ### SAST
 <div>
-    <img src="https://img.shields.io/badge/-SpectralOps-000000?&style=for-the-badge&logo=spectral&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TruffleHog-8E44AD?&style=for-the-badge&logo=trufflehog&logoColor=white" />
     <img src="https://img.shields.io/badge/-Semgrep-00BFFF?&style=for-the-badge&logo=semgrep&logoColor=white" />
 </div>
 
@@ -66,6 +65,7 @@ I have begun a journey towards developing a focus on offensive security. After m
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF8800?&style=for-the-badge&logo=burp-suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP%20ZAP-0370B6?&style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
 
 ## Certifications
