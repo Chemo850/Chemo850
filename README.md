@@ -79,5 +79,5 @@ I have begun a journey towards developing a focus on DevSecOps and Infrastructur
 
 ## Learning Path/Certifications in Progress
 <div>
-<img src="https://img.shields.io/badge/-Practical%20Network%20Penetration%20Tester-000080?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-GIAC%20Cloud%20Security%20Automation(GCSA)-FF6F00?&style=for-the-badge&logo=ine&logoColor=white" />
 </div>
