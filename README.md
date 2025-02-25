@@ -20,8 +20,7 @@ I have begun a journey towards developing a focus on offensive security. After m
 
 <div>
     <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Penetration%20Testing%20Framework-2F4F4F?&style=for-the-badge&logo=security&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Microsoft%20SDL-2F4F4F?&style=for-the-badge&logo=microsoft&logoColor=white" />
 
 ## Languages 
 
