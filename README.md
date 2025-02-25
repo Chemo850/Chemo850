@@ -61,11 +61,20 @@ I have begun a journey towards developing a focus on DevSecOps and Infrastructur
     <img src="https://img.shields.io/badge/-Semgrep-00BFFF?&style=for-the-badge&logo=semgrep&logoColor=white" />
 </div>
 
-## DAST 
+### DAST 
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF8800?&style=for-the-badge&logo=burp-suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP%20ZAP-0370B6?&style=for-the-badge&logo=owasp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
+</div>
+
+### DevSecOps 
+<div>
+    <img src="https://img.shields.io/badge/-Terraform-FF8800?&style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-0370B6?&style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Checkov-CC0000?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
 
 ## Certifications
