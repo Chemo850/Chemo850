@@ -3,7 +3,7 @@
 <a href="https://tryhackme.com/p/DarkMagic850"><img src="https://img.shields.io/badge/-TryHackMe-FF0000?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a><a href="https://app.hackthebox.com/profile/1993695"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
 
-I'm a security professional with experience across various security functions including physical security, security operations, internal audit and product security.
+I'm a security professional with experience across various security functions including physical security, security operations, internal audit and infrastructure security.
 
 ## Objective
 
