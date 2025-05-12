@@ -13,8 +13,11 @@ With extensive experience across security domains, I have built a strong foundat
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| [Project Here]          | <a href="https://google.com">[Project Here]</a>|
-| [Project Here] | <a href="https://google.com">[Project Here]</a>|
+| [AWS Asset Management] | [Project Here]
+| [Code Review] | [Project Here]
+| [Project Here] | [Project Here]
+| [Project Here] | [Project Here]
+| [Project Here] | [Project Here]
 
 ## Frameworks
 
