@@ -7,7 +7,7 @@ I am a seasoned security professional with expertise spanning physical security,
 
 ## Overview
 
-With extensive experience across security domains, I have built a strong foundation in DevSecOps and infrastructure security, specializing in credential scanning within SCM, CI/CD pipelines, and container environments. My expertise extends to developing and operationalizing security tooling, enhancing detection capabilities, and driving security automation across engineering workflows. I actively contribute to security platforms, refining scanning policies and integrating advanced security solutions to strengthen defenses. Additionally, I am committed to open-source security, contributing to tools like TruffleHog to improve secret detection and remediation strategies.    
+With extensive experience across security domains, I have built a strong foundation in DevSecOps and infrastructure security, specializing in credential scanning within SCM, CI/CD pipelines, and container environments. My expertise extends to developing and operationalizing security tooling, enhancing detection capabilities, and driving security automation across engineering workflows. I actively contribute to security platforms, refining scanning policies and integrating advanced security solutions to strengthen defenses. Additionally, I am committed to open-source security, and inspire to contribute to tools like TruffleHog to improve secret detection and remediation strategies.    
 
 ## Skills
 
