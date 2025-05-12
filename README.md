@@ -3,11 +3,11 @@
 <a href="https://tryhackme.com/p/DarkMagic850"><img src="https://img.shields.io/badge/-TryHackMe-FF0000?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a><a href="https://app.hackthebox.com/profile/1993695"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
 
-I'm a security professional with experience across various security functions including physical security, security operations, internal audit and infrastructure security.
+I am a seasoned security professional with expertise spanning physical security, security operations, internal audit, and infrastructure security. My experience includes implementing and optimizing security controls, conducting risk assessments, and driving operational security strategies to safeguard critical assets. I excel in integrating security best practices across diverse environments, ensuring compliance while proactively mitigating threats.
 
-## Objective
+## Overview
 
-I have begun a journey towards developing a focus on DevSecOps and Infrastructure security. After many years of working various security roles, I am now pivoting towards a focus towards becoming a Infrastructure Security Engineer. I'm currently active across various security platforms, as I work towards maturing my tooling and DevSecOps skillset. Additionally, I plan on being an active contribtor to open source security tools such as Trufflehog.     
+With extensive experience across security domains, I have built a strong foundation in DevSecOps and infrastructure security, specializing in credential scanning within SCM, CI/CD pipelines, and container environments. My expertise extends to developing and operationalizing security tooling, enhancing detection capabilities, and driving security automation across engineering workflows. I actively contribute to security platforms, refining scanning policies and integrating advanced security solutions to strengthen defenses. Additionally, I am committed to open-source security, contributing to tools like TruffleHog to improve secret detection and remediation strategies.    
 
 ## Skills
 
