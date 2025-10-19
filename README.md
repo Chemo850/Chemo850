@@ -14,7 +14,7 @@ With extensive experience across security domains, I have built a strong foundat
 |-----------------------------------------------|----------------------------|
 | AWS Asset Management | Led initiative for automated solution to discover and suspend unmanaged AWS accounts.
 | Code Review | Pre-triaged thousands of credential findings in code for tooling accuracy.
-| Project Here | Wrote hundreds of custom scanning policies for security tooling utilizing regex and YAML.
+| Security Rule Writing | Wrote hundreds of custom scanning policies for security tooling utilizing regex and YAML.
 | Linux | Perform credential scanning audits utilizing trufflehog on ubuntu with bash scripting.
 | Planning | Drive the roadmap for different company wide iniatives including credential scanning, cloud asset management and CSPM.
 
